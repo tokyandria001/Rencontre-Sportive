@@ -1,0 +1,1465 @@
+{
+    "('Benjamin', '0-30kg')": {
+        "matches": [
+            [
+                "Emilio Whipple (GNF)",
+                "Zenaida Mcmillian (CAK)"
+            ],
+            [
+                "Charis Vaughan (TZS)",
+                "Janyce LEVESQUE (AMD)"
+            ]
+        ],
+        "byes": [
+            "Andrews Retha (DYVK)"
+        ]
+    },
+    "('Benjamin', '35-40kg')": {
+        "matches": [
+            [
+                "Gilda ROSS (DYVK)",
+                "Rachele Elmore (KTE)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Benjamin', '40-45kg')": {
+        "matches": [],
+        "byes": [
+            "Reedy Katharyn (ABC)"
+        ]
+    },
+    "('Benjamin', '45-50kg')": {
+        "matches": [],
+        "byes": [
+            "Gillen Hsiu (TZS)"
+        ]
+    },
+    "('Benjamin', '50-55kg')": {
+        "matches": [
+            [
+                "Arlette Westfall (TRY)",
+                "Cordia Ames (BZD)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Benjamin', '55kg+')": {
+        "matches": [
+            [
+                "Karleen Barbee (GHS)",
+                "Miguel SURRATT-STURDIVANT (ZMW)"
+            ],
+            [
+                "Elwood CLEMENTS (GHS)",
+                "Vito Paul (IOD)"
+            ],
+            [
+                "Josh Espinosa (ABC)",
+                "Antony Nickerson (IOD)"
+            ],
+            [
+                "Kimi Orellana (BZD)",
+                "Etsuko COYNE (TRY)"
+            ],
+            [
+                "Angle FREDERICKS (CEK)",
+                "Franklin Aguilar (CAK)"
+            ],
+            [
+                "Marge Bowen (IOD)",
+                "Ione Kuhn (SAM)"
+            ]
+        ],
+        "byes": [
+            "Beaver Tobias (TZS)"
+        ]
+    },
+    "('Cadet', '0-42kg')": {
+        "matches": [
+            [
+                "Wen Quinones (GNF)",
+                "Caren Collier (DKK)"
+            ],
+            [
+                "Jennefer Smithson (NZD)",
+                "Jermaine Houston (TZS)"
+            ],
+            [
+                "Elisabeth Alba (DKK)",
+                "Idella Crow (TZS)"
+            ],
+            [
+                "Barb Burke (DKK)",
+                "Lenna RANEY (TZS)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Cadet', '42-47kg')": {
+        "matches": [],
+        "byes": [
+            "Craig Temika (GHS)"
+        ]
+    },
+    "('Cadet', '60-70kg')": {
+        "matches": [
+            [
+                "Lai Ricker (NZD)",
+                "Paula Metcalf-Still (LBP)"
+            ],
+            [
+                "Melania Chinn (CAK)",
+                "Junko Collier (TRY)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Cadet', '70kg+')": {
+        "matches": [
+            [
+                "Helena Knight (MRU)",
+                "Romaine Lockwood (ABC)"
+            ],
+            [
+                "Leia Koehler (DKK)",
+                "Margrett Fischer (CEK)"
+            ],
+            [
+                "Codi Aquino (CEK)",
+                "Ozell Guest (ABC)"
+            ]
+        ],
+        "byes": [
+            "Hartmann Nicolette (ZMW)"
+        ]
+    },
+    "('Espoir', '0-50kg')": {
+        "matches": [
+            [
+                "Gwyneth Dunning (THB)",
+                "Teodora PINKSTON (NZD)"
+            ],
+            [
+                "Aide Reichert (SAM)",
+                "Christin Salmon (KTE)"
+            ],
+            [
+                "Gayle Bledsoe (TRY)",
+                "Elroy Clegg (AMD)"
+            ],
+            [
+                "Alicia Bean (THB)",
+                "Dara Donley (AMD)"
+            ],
+            [
+                "Hallie Angel (CLP)",
+                "Floretta Roney (ZMW)"
+            ]
+        ],
+        "byes": [
+            "HARDEE Kayla (GNF)"
+        ]
+    },
+    "('Espoir', '50-55kg')": {
+        "matches": [],
+        "byes": [
+            "Delossantos Ashley (ABC)"
+        ]
+    },
+    "('Espoir', '61-68kg')": {
+        "matches": [
+            [
+                "Robbyn BECHTEL (CLP)",
+                "Talisha Corrigan (GHS)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Espoir', '75-84kg')": {
+        "matches": [
+            [
+                "Harland Nagel (MRU)",
+                "Roslyn Foley (GNF)"
+            ],
+            [
+                "Emmitt BROCKMAN (THB)",
+                "Willetta Humphreys (TRY)"
+            ]
+        ],
+        "byes": [
+            "Goss Alycia (GNF)"
+        ]
+    },
+    "('Junior', '0-48kg')": {
+        "matches": [
+            [
+                "Alden HAMMOND (ABC)",
+                "Antonietta Ryder (TRY)"
+            ],
+            [
+                "Dotty Mahan (AMD)",
+                "Frederick Pool (CLP)"
+            ],
+            [
+                "Quinton Lane (TRY)",
+                "Williams Arndt (MRU)"
+            ]
+        ],
+        "byes": [
+            "Horner Alecia (KTE)"
+        ]
+    },
+    "('Junior', '59kg+')": {
+        "matches": [
+            [
+                "Benita Hummel (DKK)",
+                "Chance Card (AMD)"
+            ],
+            [
+                "Inge Beckett (TZS)",
+                "Douglass Craddock (DKK)"
+            ],
+            [
+                "Felecia Engel (CEK)",
+                "Herb Vang (CLP)"
+            ]
+        ],
+        "byes": [
+            "Hazel Ernestina (CEK)"
+        ]
+    },
+    "('Minime', '0-35kg')": {
+        "matches": [
+            [
+                "Lesli Puckett (CAK)",
+                "Regine Calderon (MRU)"
+            ],
+            [
+                "Giuseppina Hoyt (KTE)",
+                "Anglea BOLIN (AMD)"
+            ],
+            [
+                "Jamika Strother (THB)",
+                "Isis Mendez (AMD)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Minime', '50-55kg')": {
+        "matches": [],
+        "byes": [
+            "Orourke Susanna (ABC)"
+        ]
+    },
+    "('Minime', '55-60kg')": {
+        "matches": [],
+        "byes": [
+            "Mcmanus Silvia (GNF)"
+        ]
+    },
+    "('Minime', '65kg+')": {
+        "matches": [
+            [
+                "Fidela Mcculloch (LBP)",
+                "Crysta Brothers (IOD)"
+            ],
+            [
+                "Gilberte Stansberry (LBP)",
+                "Ellyn Peebles (SAM)"
+            ],
+            [
+                "Dessie Fanning (GNF)",
+                "Jess Swope (CEK)"
+            ],
+            [
+                "Kevin Tripp (ABC)",
+                "Kathyrn Pak (DKK)"
+            ]
+        ],
+        "byes": [
+            "Carl Syreeta (BZD)"
+        ]
+    },
+    "('Poussin', '0-20kg')": {
+        "matches": [
+            [
+                "Eldridge Lester (TRY)",
+                "Bari Schwarz (LBP)"
+            ]
+        ],
+        "byes": [
+            "Munn Rodney (MRU)"
+        ]
+    },
+    "('Poussin', '20-25kg')": {
+        "matches": [
+            [
+                "Lovie Ohara (KTE)",
+                "Guy Noyes (TRY)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Poussin', '30-35kg')": {
+        "matches": [
+            [
+                "Jenette Vickery (GHS)",
+                "Shayne Crowell (KTE)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Poussin', '35-40kg')": {
+        "matches": [
+            [
+                "Nestor Caruso (TRY)",
+                "Tangela Derrick (GNF)"
+            ]
+        ],
+        "byes": [
+            "Wolff Elsie (CEK)"
+        ]
+    },
+    "('Poussin', '40-45kg')": {
+        "matches": [],
+        "byes": [
+            "Bundy Janel (IOD)"
+        ]
+    },
+    "('Poussin', '45kg+')": {
+        "matches": [
+            [
+                "Audie Drew (SAM)",
+                "Marlen Paz (THB)"
+            ],
+            [
+                "Dulce Swan (CEK)",
+                "Celeste SANDERSON (GHS)"
+            ],
+            [
+                "Una BABB (IOD)",
+                "Kimi Osborne (ABC)"
+            ],
+            [
+                "Lona BUTTS (SAM)",
+                "Paulina Ha (GNF)"
+            ],
+            [
+                "Jerrica Anderson (CAK)",
+                "Domonique Cardoza (ZMW)"
+            ],
+            [
+                "Rupert Flowers (CLP)",
+                "Dominica Pettigrew-Earley (DKK)"
+            ],
+            [
+                "Pamala Dickens (BZD)",
+                "Concha Gould (CAK)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Pupille', '0-25kg')": {
+        "matches": [
+            [
+                "Fairy Conti (LBP)",
+                "Brice Rosenthal-Braswell (SAM)"
+            ],
+            [
+                "Rana AVERY (IOD)",
+                "Sharlene MERCADO (GHS)"
+            ]
+        ],
+        "byes": [
+            "Ali Jared (CAK)"
+        ]
+    },
+    "('Pupille', '25-30kg')": {
+        "matches": [],
+        "byes": [
+            "Cohen Lakeesha (ZMW)"
+        ]
+    },
+    "('Pupille', '30-35kg')": {
+        "matches": [
+            [
+                "Horace Hamm (THB)",
+                "Elsa Stevenson (CAK)"
+            ]
+        ],
+        "byes": [
+            "Bettencourt Arie (DYVK)"
+        ]
+    },
+    "('Pupille', '35-40kg')": {
+        "matches": [],
+        "byes": [
+            "ALDRIDGE Lashonda (IOD)"
+        ]
+    },
+    "('Pupille', '40-45kg')": {
+        "matches": [],
+        "byes": [
+            "Pitt Liane (KTE)"
+        ]
+    },
+    "('Pupille', '50kg+')": {
+        "matches": [
+            [
+                "Myron Oliva (GNF)",
+                "Nerissa Apple (DKK)"
+            ],
+            [
+                "Lauralee Pinckney (KTE)",
+                "Dominga TAYLOR (ABC)"
+            ],
+            [
+                "Sherman Poston (CEK)",
+                "Jesus Pleasant (TZS)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Senior', '0-50kg')": {
+        "matches": [
+            [
+                "Cammy Dillard (DKK)",
+                "Stephanie Stclair (GHS)"
+            ],
+            [
+                "Amee Mccallister (GNF)",
+                "Joana Lanier (CLP)"
+            ],
+            [
+                "Weldon Murillo (THB)",
+                "Goldie Mayhew (ZMW)"
+            ],
+            [
+                "Leena Monson (TRY)",
+                "Bonita Wimberly (CAK)"
+            ],
+            [
+                "Myrtice Dillard (AMD)",
+                "Elena Talbert (ABC)"
+            ],
+            [
+                "Tatiana Lovett (BZD)",
+                "Yasuko MANN (CEK)"
+            ],
+            [
+                "Clarence Greer (CAK)",
+                "Kristie Witherspoon (THB)"
+            ],
+            [
+                "Isadora Prince (TRY)",
+                "Gino Prieto (KTE)"
+            ],
+            [
+                "Dorla Kenny (GNF)",
+                "Tori Peoples-Mcknight (BZD)"
+            ],
+            [
+                "Val Arriaga (TRY)",
+                "Lynwood Beatty (BZD)"
+            ],
+            [
+                "Jenise Pollock (GNF)",
+                "Hollis Kaufman-Perdue (NZD)"
+            ],
+            [
+                "Tonisha Popp (AMD)",
+                "Wyatt Brody (THB)"
+            ],
+            [
+                "Leora Buckner-Fortney (THB)",
+                "Adelle WALKER (IOD)"
+            ],
+            [
+                "Ryann Holder (ZMW)",
+                "Arlean Maas (CLP)"
+            ],
+            [
+                "Elfreda Huggins (TRY)",
+                "Shayne Burney (KTE)"
+            ],
+            [
+                "Shawanna Frizzell (TZS)",
+                "Viola Stansberry (LBP)"
+            ],
+            [
+                "Omar DEW (GHS)",
+                "Lindsey Hawes (GNF)"
+            ],
+            [
+                "Classie Mckeon (GHS)",
+                "Susan LISTER (KTE)"
+            ],
+            [
+                "Tam Hoffman (CLP)",
+                "Anastacia SILVA (CAK)"
+            ],
+            [
+                "Ellamae Hazel (NZD)",
+                "Gwendolyn Beckwith (DKK)"
+            ],
+            [
+                "Jerrie Bunn (THB)",
+                "Temeka Mullis (NZD)"
+            ],
+            [
+                "Eliza Jett (ABC)",
+                "Johnsie Arriola (CAK)"
+            ],
+            [
+                "Anissa Reis (NZD)",
+                "Garry Block (TRY)"
+            ],
+            [
+                "Milan MOYE (NZD)",
+                "Christiana Doan (ABC)"
+            ],
+            [
+                "Martin Epstein (ZMW)",
+                "Orpha Lombard (GHS)"
+            ],
+            [
+                "Earline Lewandowski (DKK)",
+                "Graciela METZ (GHS)"
+            ],
+            [
+                "Alishia Cardona (SAM)",
+                "Tatiana Hillard (CEK)"
+            ],
+            [
+                "Truman Kaminski (THB)",
+                "Maurita Negrete (KTE)"
+            ],
+            [
+                "Francie Murillo (BZD)",
+                "Alicia Walling (TZS)"
+            ],
+            [
+                "Vance Cardona (CAK)",
+                "Kristan Poling (LBP)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Senior', '50-55kg')": {
+        "matches": [
+            [
+                "Tamara Grossman (LBP)",
+                "Madison Cheatham (CAK)"
+            ],
+            [
+                "Kattie Mclaurin (LBP)",
+                "Wilfred Wallen (ZMW)"
+            ],
+            [
+                "Troy WILLIE (KTE)",
+                "Tia DIGGS (THB)"
+            ]
+        ],
+        "byes": [
+            "Woodward Maryam (THB)"
+        ]
+    },
+    "('Senior', '55-61kg')": {
+        "matches": [
+            [
+                "Kiana Truong (ZMW)",
+                "Berry Frey (GNF)"
+            ],
+            [
+                "Minta Eng (MRU)",
+                "Shanae SCHOONOVER (ZMW)"
+            ]
+        ],
+        "byes": [
+            "Duckworth Vinita (GHS)"
+        ]
+    },
+    "('Senior', '61-68kg')": {
+        "matches": [
+            [
+                "Cheryle Box (TRY)",
+                "Maryellen Marin (CLP)"
+            ],
+            [
+                "Donella Diggs (GHS)",
+                "Marcelle Rounds (TRY)"
+            ],
+            [
+                "Lottie Kimbrough (DKK)",
+                "Cary Pitre-Madden (DYVK)"
+            ],
+            [
+                "Fransisca Strong (DYVK)",
+                "Randolph Hendricks (IOD)"
+            ],
+            [
+                "Weston Lowe-Bush (DKK)",
+                "Kay Hyland (GNF)"
+            ],
+            [
+                "Kitty Marrero (GHS)",
+                "Oneida Roney (THB)"
+            ],
+            [
+                "Darlene Rivers (ZMW)",
+                "Xochitl Mullen-Crocker (CAK)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Senior', '68-75kg')": {
+        "matches": [
+            [
+                "Lady Thibodeau (GHS)",
+                "Felicidad ELAM (ABC)"
+            ],
+            [
+                "Beaulah SIERRA (ZMW)",
+                "Mathilde Matson (ABC)"
+            ],
+            [
+                "Augusta Wilbur (TZS)",
+                "Aide Chatman (KTE)"
+            ],
+            [
+                "Cherise Waldron (KTE)",
+                "Fredericka Mcgrath (SAM)"
+            ],
+            [
+                "Shoshana Browning (THB)",
+                "Kellye Shell (BZD)"
+            ],
+            [
+                "Marie Jewell (DYVK)",
+                "Vaughn Chestnut (ZMW)"
+            ],
+            [
+                "Carlota ROWELL-HOUCK (DYVK)",
+                "Simona Woodruff (AMD)"
+            ]
+        ],
+        "byes": []
+    },
+    "('Senior', '75-84kg')": {
+        "matches": [
+            [
+                "Paul Petersen (GNF)",
+                "Collin Fox (DKK)"
+            ],
+            [
+                "Fumiko TAFOYA (ABC)",
+                "Jamee Pickering (DYVK)"
+            ],
+            [
+                "Nydia Ebert (SAM)",
+                "Veronique Tracey (ABC)"
+            ],
+            [
+                "Nona Garcia (THB)",
+                "Dustin Wofford (TZS)"
+            ],
+            [
+                "Rosy Almond (CEK)",
+                "Gene Meredith (SAM)"
+            ],
+            [
+                "Ileana Mattingly (DYVK)",
+                "Enedina Wyman (KTE)"
+            ]
+        ],
+        "byes": [
+            "Owens Emelia (SAM)"
+        ]
+    },
+    "('Senior', '84kg+')": {
+        "matches": [
+            [
+                "Lyndon Mcguire (CEK)",
+                "Lorena Hudgens (SAM)"
+            ],
+            [
+                "Parker Whitten (CLP)",
+                "Leonarda Fairchild-Teel (MRU)"
+            ],
+            [
+                "Veta Richmond (BZD)",
+                "Carleen Atkins (NZD)"
+            ],
+            [
+                "Annett PACHECO (MRU)",
+                "Concepcion Boynton (IOD)"
+            ],
+            [
+                "Basilia Herrington (MRU)",
+                "Sheena Hoy (SAM)"
+            ],
+            [
+                "Kasandra Sherrill (GNF)",
+                "Gregorio Petit (GHS)"
+            ],
+            [
+                "Dawne Satterfield (NZD)",
+                "Wilbur Wing (BZD)"
+            ],
+            [
+                "Deeanna Wilkes (BZD)",
+                "Marion Henderson (LBP)"
+            ],
+            [
+                "Jonelle Steinberg (THB)",
+                "Adelia BARBA (TZS)"
+            ],
+            [
+                "Kerstin Shook (CAK)",
+                "Kiyoko Mount (BZD)"
+            ],
+            [
+                "Gayle Dow (KTE)",
+                "Jose Garcia (CEK)"
+            ],
+            [
+                "Ellena Upchurch-Carden (ZMW)",
+                "Olympia Engel (ABC)"
+            ]
+        ],
+        "byes": [
+            "Boykin Stormy (ABC)"
+        ]
+    },
+    "('V1', '0-55kg')": {
+        "matches": [
+            [
+                "Marquitta Gipson-Eaves (CAK)",
+                "Kaitlin Villegas (DKK)"
+            ],
+            [
+                "Virgilio Barney (CAK)",
+                "Earle Doe (MRU)"
+            ],
+            [
+                "Marsha Roark-Bachman (GHS)",
+                "Tamar FEENEY (SAM)"
+            ],
+            [
+                "Anastasia Darnell (GNF)",
+                "Janise Harp (TZS)"
+            ],
+            [
+                "Shasta LAFFERTY (LBP)",
+                "Federico Eng (GNF)"
+            ],
+            [
+                "Shelton Sigmon (IOD)",
+                "Amberly Victor (SAM)"
+            ],
+            [
+                "Sebastian Chapman (BZD)",
+                "Margarette Ramon (TZS)"
+            ],
+            [
+                "Lynnette Albers (DKK)",
+                "Deidra Swann (TZS)"
+            ],
+            [
+                "Jolie Viera (CAK)",
+                "Tami Trent (CLP)"
+            ],
+            [
+                "Santo Scribner (MRU)",
+                "Dexter Gladden (TRY)"
+            ],
+            [
+                "Sandee Pate (KTE)",
+                "Hayley Guevara (MRU)"
+            ],
+            [
+                "Virginia Castaneda (ABC)",
+                "Rosanne Hargrove (MRU)"
+            ],
+            [
+                "Apolonia Chang (CAK)",
+                "Sondra Trout (SAM)"
+            ],
+            [
+                "Peter Houck (IOD)",
+                "Brinda Mitchel (TZS)"
+            ],
+            [
+                "Twanna HAMMOND (MRU)",
+                "Lynda Pool (DKK)"
+            ],
+            [
+                "Karyn Rhoades (CEK)",
+                "Lillian Cramer (CAK)"
+            ],
+            [
+                "Lina Osgood (KTE)",
+                "Columbus Mason (AMD)"
+            ],
+            [
+                "Alison Barton-Oconner (GNF)",
+                "Forrest SHELL (IOD)"
+            ],
+            [
+                "Thi CARO (LBP)",
+                "Maragret Conn (DYVK)"
+            ],
+            [
+                "Aletha Burnside (BZD)",
+                "Leone FULTON (DYVK)"
+            ],
+            [
+                "Nigel Sturdivant (THB)",
+                "Jenine Stringer (GNF)"
+            ],
+            [
+                "Johnsie Pollock (IOD)",
+                "Antonetta Pack (CEK)"
+            ],
+            [
+                "Tyree Condon (KTE)",
+                "Laurene Stinson (NZD)"
+            ],
+            [
+                "Danilo Foy (LBP)",
+                "Dusty Lindsey (TRY)"
+            ],
+            [
+                "Desire Bottoms (CAK)",
+                "Trena Muhammad-Strickland (TRY)"
+            ],
+            [
+                "Maybelle Carrera (CLP)",
+                "Eusebia Westmoreland-Hoffmann (TRY)"
+            ],
+            [
+                "Nora RENDON (BZD)",
+                "Sharell ERICKSON (GNF)"
+            ],
+            [
+                "Jan Taft (DYVK)",
+                "Aracely CAMARA-CRITTENDEN (GHS)"
+            ],
+            [
+                "Toshia Ferreira (GNF)",
+                "Georgine FIFE (CEK)"
+            ]
+        ],
+        "byes": [
+            "Pulido Heather (KTE)"
+        ]
+    },
+    "('V1', '55-61kg')": {
+        "matches": [
+            [
+                "Phung Mcgill (SAM)",
+                "Georgeanna SMALLS (KTE)"
+            ],
+            [
+                "Shad Treadway-Hardin (GNF)",
+                "Ricardo Flemming (CAK)"
+            ],
+            [
+                "Hyo Block (CLP)",
+                "Consuelo Emerson (ZMW)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V1', '61-68kg')": {
+        "matches": [
+            [
+                "Haley BURKHOLDER (DKK)",
+                "Jonnie Smart (GNF)"
+            ],
+            [
+                "Lorrine Schott-Hassell (KTE)",
+                "Portia Conway (CLP)"
+            ],
+            [
+                "Felicita Blanchard (CLP)",
+                "Delia Troutman-Johansen (CEK)"
+            ],
+            [
+                "Genaro Broome (ZMW)",
+                "Ernie Moses (KTE)"
+            ]
+        ],
+        "byes": [
+            "WIGGINS Paulene (ABC)"
+        ]
+    },
+    "('V1', '68-75kg')": {
+        "matches": [
+            [
+                "Thora Gagne (SAM)",
+                "Federico Nowlin (LBP)"
+            ],
+            [
+                "Kellie Sparkman (DYVK)",
+                "Bonita Koonce (THB)"
+            ],
+            [
+                "Maude Rendon (NZD)",
+                "Doria Nakamura (DYVK)"
+            ],
+            [
+                "Jacquiline MUNN (DKK)",
+                "Nelda MORAN (GNF)"
+            ],
+            [
+                "Hung Soto (THB)",
+                "Wilhelmina Arroyo (DYVK)"
+            ]
+        ],
+        "byes": [
+            "Salas Estefana (BZD)"
+        ]
+    },
+    "('V1', '75-84kg')": {
+        "matches": [
+            [
+                "Faith Rayford (GNF)",
+                "Glady Drake (NZD)"
+            ],
+            [
+                "Josefina Estes (LBP)",
+                "Minna Wynn (CLP)"
+            ],
+            [
+                "Fidel Church (DKK)",
+                "Darell Stein (TZS)"
+            ]
+        ],
+        "byes": [
+            "Lange Sheldon (DYVK)"
+        ]
+    },
+    "('V1', '84kg+')": {
+        "matches": [
+            [
+                "Dennise MARTZ (BZD)",
+                "Maye Nash (AMD)"
+            ],
+            [
+                "Johnetta JOSEPH (MRU)",
+                "Kristen Maxfield (TRY)"
+            ],
+            [
+                "Lorette Lashley (CAK)",
+                "Lashaun Davies (THB)"
+            ],
+            [
+                "Lyda FUSCO (AMD)",
+                "Santo Acosta (LBP)"
+            ],
+            [
+                "Alysia Mcdougall (ZMW)",
+                "Quinn Weber (AMD)"
+            ],
+            [
+                "Leona Gould-Pounds (NZD)",
+                "Synthia Cheng (BZD)"
+            ],
+            [
+                "Edwina Isom (MRU)",
+                "Verena Leger (ABC)"
+            ],
+            [
+                "Rosalind Portillo-Muir (GNF)",
+                "Dana Wilbanks (IOD)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V2', '0-55kg')": {
+        "matches": [
+            [
+                "Kieth Mclain (DKK)",
+                "Lavonia Colon (GHS)"
+            ],
+            [
+                "Georgeann Breeden (GNF)",
+                "Carl OLIVER (GHS)"
+            ],
+            [
+                "Buford Diaz (GNF)",
+                "Pauletta HOOKS (GHS)"
+            ],
+            [
+                "Valentine Roark (DKK)",
+                "Roscoe Nye (AMD)"
+            ],
+            [
+                "Elizbeth Peak (GNF)",
+                "Kristopher Aguayo (CEK)"
+            ],
+            [
+                "Velia Bechtel (CAK)",
+                "Brande Beck (GNF)"
+            ],
+            [
+                "Ermelinda Pridgen (TZS)",
+                "Cari Babb (KTE)"
+            ],
+            [
+                "Chuck Goins (DKK)",
+                "Lorena Aguilera (THB)"
+            ],
+            [
+                "Jaunita Garrison (CAK)",
+                "Bobette Nesmith-Mcfadden (TZS)"
+            ],
+            [
+                "Karma Mcgriff (MRU)",
+                "Deonna Stover (AMD)"
+            ],
+            [
+                "Amanda Levy (SAM)",
+                "Herta Easter (CEK)"
+            ],
+            [
+                "Virgen Whaley (LBP)",
+                "Albertine Paulk (DKK)"
+            ],
+            [
+                "Valene MACKIE (LBP)",
+                "Kassie Starkey (ABC)"
+            ],
+            [
+                "Alvina Schulte (NZD)",
+                "Lan Monson (GNF)"
+            ],
+            [
+                "Lucy Fritz (CAK)",
+                "Georgene Terrill (MRU)"
+            ],
+            [
+                "Micah Schwab (CEK)",
+                "Enola Bunting (NZD)"
+            ],
+            [
+                "Arletha LUGO (IOD)",
+                "Alpha Allison (TRY)"
+            ],
+            [
+                "Tu LEDESMA (IOD)",
+                "Genia Price (TZS)"
+            ],
+            [
+                "Taren Appleton (ABC)",
+                "Charleen Ashford (SAM)"
+            ],
+            [
+                "Dagny Varela (IOD)",
+                "Meda SWENSON (NZD)"
+            ],
+            [
+                "Trenton PENDER (BZD)",
+                "Takisha Mckinnon (DYVK)"
+            ],
+            [
+                "Asuncion Killian (ABC)",
+                "Veta Mcmillan (BZD)"
+            ],
+            [
+                "Angila Tyner (ZMW)",
+                "Lawrence Parish (MRU)"
+            ],
+            [
+                "Agnus Schroeder (SAM)",
+                "Mikki Stanton (BZD)"
+            ],
+            [
+                "Ulysses Jasper (IOD)",
+                "Sherice Villanueva (CAK)"
+            ],
+            [
+                "Loraine Hacker (TRY)",
+                "Ossie New (NZD)"
+            ],
+            [
+                "Lise Howland (BZD)",
+                "Siu Poling-Spivey (TZS)"
+            ],
+            [
+                "Jonathan Crist (AMD)",
+                "Rochell KIMMEL (MRU)"
+            ],
+            [
+                "Mable Salisbury (TRY)",
+                "Shawnta CROUCH (ABC)"
+            ],
+            [
+                "Jetta Mcleod (TZS)",
+                "Raymond QUICK (NZD)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V2', '55-61kg')": {
+        "matches": [
+            [
+                "Mikaela Stanton-Molina (TZS)",
+                "Tristan Creamer (ZMW)"
+            ],
+            [
+                "Betty Schramm (TZS)",
+                "Latrice Newkirk (LBP)"
+            ],
+            [
+                "Cassie Bonilla (MRU)",
+                "Sanjuanita Heflin (ABC)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V2', '61-68kg')": {
+        "matches": [
+            [
+                "Aileen FAIN (TZS)",
+                "Lilly Shepard (LBP)"
+            ],
+            [
+                "Rosalba Cabrera (SAM)",
+                "Donald Cormier (GHS)"
+            ],
+            [
+                "Edgar Luster (GNF)",
+                "Ira Power (AMD)"
+            ],
+            [
+                "Marna Justus (CLP)",
+                "Estrella Scully (DKK)"
+            ]
+        ],
+        "byes": [
+            "Kingsley-Sallee Dominic (MRU)"
+        ]
+    },
+    "('V2', '68-75kg')": {
+        "matches": [
+            [
+                "Isidro Levy-Ramos (SAM)",
+                "Danyell Keane (TZS)"
+            ],
+            [
+                "Antonio Harwell (TZS)",
+                "Maire Wyant (GNF)"
+            ],
+            [
+                "Miguel CARBONE (GNF)",
+                "Jacquelynn Levesque (SAM)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V2', '75-84kg')": {
+        "matches": [
+            [
+                "Hallie Groce-Ahrens (LBP)",
+                "Evangeline Timmerman (BZD)"
+            ],
+            [
+                "Maud Cope (TZS)",
+                "Grazyna Mcvay (NZD)"
+            ],
+            [
+                "Hyon Johansen (CAK)",
+                "Alpha Gonzalez (TZS)"
+            ],
+            [
+                "Reed Marsh (ABC)",
+                "Violet Moll (DYVK)"
+            ],
+            [
+                "Ruben Zambrano (DKK)",
+                "Rick Ashby (DYVK)"
+            ]
+        ],
+        "byes": [
+            "Tavares Rubi (AMD)"
+        ]
+    },
+    "('V2', '84kg+')": {
+        "matches": [
+            [
+                "Reid Rhoden (MRU)",
+                "Vernetta Bostick (NZD)"
+            ],
+            [
+                "Maryanna Guillen (NZD)",
+                "Myong Traylor (THB)"
+            ],
+            [
+                "Amy Wyatt (DYVK)",
+                "Nery Cronin (BZD)"
+            ],
+            [
+                "Joi Stearns (CLP)",
+                "Gabriella Stpierre (ABC)"
+            ],
+            [
+                "Marketta Lahr (KTE)",
+                "Oleta Ledesma (LBP)"
+            ],
+            [
+                "Carlton Marquis (THB)",
+                "Maragret Dutton-Geary (GHS)"
+            ],
+            [
+                "Bobby COMBS (GNF)",
+                "Sidney Oconnell (BZD)"
+            ],
+            [
+                "Cleo Sutherland (ZMW)",
+                "Lucien NORTH (AMD)"
+            ],
+            [
+                "Kathline Bruns (DYVK)",
+                "Janis LOWE (CAK)"
+            ],
+            [
+                "Porfirio Mcelroy (AMD)",
+                "Verda Newsom-Seale (CLP)"
+            ]
+        ],
+        "byes": [
+            "Caro Elza (DYVK)"
+        ]
+    },
+    "('V3', '0-55kg')": {
+        "matches": [
+            [
+                "Ena Reeve (IOD)",
+                "Juan Lunsford (BZD)"
+            ],
+            [
+                "Terese Tibbetts (DKK)",
+                "Dylan Vaughan (MRU)"
+            ],
+            [
+                "Arden Jarrell (ZMW)",
+                "Sibyl Melancon-Eck (NZD)"
+            ],
+            [
+                "Joyce Herbert (LBP)",
+                "Crystle East (NZD)"
+            ],
+            [
+                "Sindy WARREN (LBP)",
+                "Nakia Henson (IOD)"
+            ],
+            [
+                "Kathryne Griffith (KTE)",
+                "Julianne Thrasher (IOD)"
+            ],
+            [
+                "Emmanuel Scarborough (BZD)",
+                "Malvina Leigh (TRY)"
+            ],
+            [
+                "Demetrice Parr-Stout (NZD)",
+                "Allene MCCUNE (TZS)"
+            ],
+            [
+                "Marvin Orosco (GHS)",
+                "Luther Langley (ZMW)"
+            ],
+            [
+                "Alita Reyes-Rountree (SAM)",
+                "Alia Poland (GNF)"
+            ],
+            [
+                "Brandon Acuna (THB)",
+                "Beula Younger (BZD)"
+            ],
+            [
+                "Alecia KEEN (DKK)",
+                "Mohammed Bettis (CLP)"
+            ],
+            [
+                "Marita Bechtel (DYVK)",
+                "Berenice MCCRARY (BZD)"
+            ],
+            [
+                "Missy SCARBROUGH (BZD)",
+                "Myrle PAQUETTE (TRY)"
+            ],
+            [
+                "Ramon Silverman (LBP)",
+                "Winona Barrera (GNF)"
+            ],
+            [
+                "Georgianne Fleming (LBP)",
+                "Stephanie Cate (DKK)"
+            ],
+            [
+                "Rebeca Oliver (MRU)",
+                "Dino THARP (TZS)"
+            ],
+            [
+                "Krystle Shuler (KTE)",
+                "Ling Abney (ZMW)"
+            ],
+            [
+                "Serina Grover (TRY)",
+                "Elise ARMSTRONG (IOD)"
+            ],
+            [
+                "Sigrid Stine (ABC)",
+                "Annalee Buie (TZS)"
+            ],
+            [
+                "Jarvis Shuman (DYVK)",
+                "Earlean Eng (ABC)"
+            ],
+            [
+                "Avery Miranda (ZMW)",
+                "Eunice LOYD (DKK)"
+            ],
+            [
+                "Breana Isom (CLP)",
+                "Joleen CARR (NZD)"
+            ],
+            [
+                "Fawn Ray (GNF)",
+                "Hortensia Macon (LBP)"
+            ],
+            [
+                "Regan STOLL-ANDERSON (MRU)",
+                "Zenaida Burnett (ABC)"
+            ],
+            [
+                "Anneliese Cahill (DKK)",
+                "Kathey Roussel (ABC)"
+            ],
+            [
+                "Christene Conrad (SAM)",
+                "Loni Weston (CLP)"
+            ],
+            [
+                "Florance Hidalgo (KTE)",
+                "Keren Walton (DKK)"
+            ]
+        ],
+        "byes": [
+            "Lowman Drusilla (GHS)"
+        ]
+    },
+    "('V3', '55-61kg')": {
+        "matches": [
+            [
+                "Cherilyn Reynolds (NZD)",
+                "Ailene Brady (AMD)"
+            ],
+            [
+                "Randell Mathews (GNF)",
+                "Lucina Boatman (TRY)"
+            ],
+            [
+                "Chaya OLSON (IOD)",
+                "Dottie Michel (CLP)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V3', '61-68kg')": {
+        "matches": [
+            [
+                "Lenna Quinonez (IOD)",
+                "Deandra Powell (TZS)"
+            ],
+            [
+                "Leota Soares (GNF)",
+                "Lorraine Lerner (MRU)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V3', '68-75kg')": {
+        "matches": [
+            [
+                "Candida Sowers (CLP)",
+                "Michale London (ZMW)"
+            ],
+            [
+                "Nicholas Roy (ABC)",
+                "Salvador DENTON (KTE)"
+            ],
+            [
+                "Priscila Pender (CEK)",
+                "Jaye Kearns (TRY)"
+            ],
+            [
+                "Edmund Gorham (GHS)",
+                "Raguel Kent (TRY)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V3', '75-84kg')": {
+        "matches": [
+            [
+                "Addie Pedroza (KTE)",
+                "Cortez BEAR (SAM)"
+            ],
+            [
+                "Zola Strong (CLP)",
+                "Glenda Fraser (LBP)"
+            ],
+            [
+                "Jenell Peek (GNF)",
+                "Blanca Chisholm (LBP)"
+            ],
+            [
+                "Mirtha Pappas (DYVK)",
+                "Deb Bowles (TZS)"
+            ],
+            [
+                "Rosalva Fort (SAM)",
+                "Rubie Rowell (GHS)"
+            ]
+        ],
+        "byes": []
+    },
+    "('V3', '84kg+')": {
+        "matches": [
+            [
+                "Ida Devries (LBP)",
+                "Jenice Gorham (CAK)"
+            ],
+            [
+                "Janeth Maloney (SAM)",
+                "Serena BUSH (DKK)"
+            ],
+            [
+                "Quintin Kang (GNF)",
+                "Nichelle GOODEN (AMD)"
+            ],
+            [
+                "Clemmie HAIRSTON (ABC)",
+                "Evelia Cano (THB)"
+            ],
+            [
+                "Margurite Young (DKK)",
+                "Norma DEVINE-VENTURA (IOD)"
+            ],
+            [
+                "Tiny Bisson (GHS)",
+                "Ettie Seidel (KTE)"
+            ],
+            [
+                "Eneida Herbert (CAK)",
+                "Deidre Littlejohn (NZD)"
+            ]
+        ],
+        "byes": []
+    }
+}
