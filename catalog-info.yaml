@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Rencontre-Sportive
+  description: Rencontre-Sportive (Python)
+  annotations:
+    github.com/project-slug: tokyandria001/Rencontre-Sportive
+  tags:
+    - python
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
